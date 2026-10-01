@@ -1,0 +1,13 @@
+.DS_Store
+.gradle/
+.gradle-home/
+.android-home/
+.idea/
+local.properties
+**/build/
+*.apk
+*.aab
+signing/*.keystore
+captures/
+externalNativeBuild/
+.cxx/
